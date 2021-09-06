@@ -27,7 +27,7 @@
   
   
   
-   ![Snake animation](https://github.com/HenriquePinheiro12)
+     ![Snake animation](https://github.com/HenriquePinheiro12/henriquepinheiro12/blob/output/github-contribution-grid-snake.svg)
   
   
   
