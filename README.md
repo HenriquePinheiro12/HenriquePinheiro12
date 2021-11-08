@@ -24,7 +24,12 @@
   </div>
 
  ![Snake animation](https://github.com/HenriquePinheiro12/henriquepinheiro12/blob/output/github-contribution-grid-snake.svg)
-  
+
+## Who I am
+ 
+ I´m a beginner programmer who´ve recently entered on the wide world of programming. I´m recently working on frontend static projects and learning the programming logic in my technical school.
+ I have experience on working with HTML, CSS and pure JS. Beyond that, I´m just initending to start learning any other[TODO]
+ 
 <!--
 **HenriquePinheiro12/henriquepinheiro12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
