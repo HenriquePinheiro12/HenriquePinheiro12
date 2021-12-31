@@ -41,3 +41,4 @@
  - [Kevin Powell´s vanilla JS carousel🎠](https://github.com/HenriquePinheiro12/Vanilla-JS-Carousel)
  - [Node Studio Treinamentos Flexbox Project🌴](https://github.com/HenriquePinheiro12/FlexboxProject_NodeStudioTreinamentos)
  - [Vanilla JavaScript Cronometer⏰](https://github.com/HenriquePinheiro12/VanillaJS-Cronometer)
+ - [CSS Grid Project💻](https://github.com/HenriquePinheiro12/CSS-Grid-Project)
