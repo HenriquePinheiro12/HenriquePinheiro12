@@ -42,3 +42,4 @@
  - [Node Studio Treinamentos Flexbox Project🌴](https://github.com/HenriquePinheiro12/FlexboxProject_NodeStudioTreinamentos)
  - [Vanilla JavaScript Cronometer⏰](https://github.com/HenriquePinheiro12/VanillaJS-Cronometer)
  - [CSS Grid Project💻](https://github.com/HenriquePinheiro12/CSS-Grid-Project)
+ - [Vanilla JavaScript Calculator🧮](https://github.com/HenriquePinheiro12/VanillaJS-Calculator)
