@@ -36,6 +36,7 @@
  I´m currently studying JavaScript fundamentals and consolidating on frontend development ✨
 
  ## My favorite projects❤️
+ - [Aluracord - HeavenlyCord ⛅](https://github.com/HenriquePinheiro12/aluracord)
  - [Doce Cantinho Oficial 🍓](https://github.com/HenriquePinheiro12/DoceCantinhoOficial)
  - [Mini Loja Virtual Vanilla JS🛒](https://github.com/HenriquePinheiro12/Mini-Loja-Virtual-JavaScript-Vanilla)
  - [Kevin Powell´s vanilla JS carousel🎠](https://github.com/HenriquePinheiro12/Vanilla-JS-Carousel)
