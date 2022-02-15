@@ -37,9 +37,10 @@
 
  ## My favorite projects❤️
  - [Aluracord - HeavenlyCord ⛅](https://github.com/HenriquePinheiro12/aluracord)
+ - [Devfinder 🐈‍⬛](https://github.com/henriquepinheiro12/devfinder)
  - [Doce Cantinho Oficial 🍓](https://github.com/HenriquePinheiro12/DoceCantinhoOficial)
  - [Mini Loja Virtual Vanilla JS🛒](https://github.com/HenriquePinheiro12/Mini-Loja-Virtual-JavaScript-Vanilla)
- - [FrontendMentor Time Tracking Dashboard 🎠](https://github.com/HenriquePinheiro12/Time-tracking-dashboard_FrontendMentor/tree/main)
+ - [FrontendMentor Time Tracking Dashboard 🎠](https://github.com/HenriquePinheiro12/Time-tracking-dashboard_FrontendMentor)
  - [Node Studio Treinamentos Flexbox Project🌴](https://github.com/HenriquePinheiro12/FlexboxProject_NodeStudioTreinamentos)
  - [Vanilla JavaScript Cronometer⏰](https://github.com/HenriquePinheiro12/VanillaJS-Cronometer)
  - [CSS Grid Project💻](https://github.com/HenriquePinheiro12/CSS-Grid-Project)
